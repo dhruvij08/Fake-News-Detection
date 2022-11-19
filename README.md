@@ -7,7 +7,7 @@
 ## Problem Definition
 The objective of fake news is to induce readers to trust incorrect information, making it difficult and time-consuming to find supplementary materials. A solution to ensure credibility in the article/news/social media thereby overcome the drawbacks in existing work using Machine Learning model.
 ## Goal
-To build a predictive model using machine learning to predict whether the news is fake or true.
+To build a predictive model using machine learning and NLP to predict whether the news is fake or true.
 
 ## Screenshots
 
